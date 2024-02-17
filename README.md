@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cz-alessandro-molari
+- 👀 I’m interested in developing the world most advanced Supply Chain Security product based on AI
+- 📫 How to reach me: alessandro.molari@chainzero.ai
